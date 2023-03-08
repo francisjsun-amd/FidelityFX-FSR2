@@ -77,6 +77,7 @@
 #define FFX_FSR2_CONSTANTBUFFER_IDENTIFIER_FSR2                                      0
 #define FFX_FSR2_CONSTANTBUFFER_IDENTIFIER_SPD                                       1
 #define FFX_FSR2_CONSTANTBUFFER_IDENTIFIER_RCAS                                      2
+#define FFX_FSR2_CONSTANTBUFFER_IDENTIFIER_REACTIVE                                  3
 
 #define FFX_FSR2_AUTOREACTIVEFLAGS_APPLY_TONEMAP                                    1
 #define FFX_FSR2_AUTOREACTIVEFLAGS_APPLY_INVERSETONEMAP                             2
